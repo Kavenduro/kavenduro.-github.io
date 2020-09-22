@@ -13,7 +13,7 @@ body {
 .eat{
     height:10px;
     width:10px;
-    background-image:green;
+    backgroun:green;
     position: absolute;
     transform:translateX(10px) translateY(10px);
     z-index:3;

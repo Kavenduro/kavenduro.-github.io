@@ -14,7 +14,7 @@ body {
     height:10px;
     width:10px;
     background-image:green;
-    Pposition: absolute;
+    position: absolute;
     transform:translateX(10px) translateY(10px);
     z-index:3;
 }
